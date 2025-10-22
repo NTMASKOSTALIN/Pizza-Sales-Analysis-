@@ -6,7 +6,7 @@ Dataset:
 - <a href="https://github.com/NTMASKOSTALIN/Pizza-Sales-Analysis/blob/main/pizza_types.csv"> Pizza_Types
 - <a href="https://github.com/NTMASKOSTALIN/Pizza-Sales-Analysis/blob/main/orders.csv"> Orders
 - <a href="https://github.com/NTMASKOSTALIN/Pizza-Sales-Analysis/blob/main/order_details.csv"> Orderdetails
-- <a href="https://docs.google.com/spreadsheets/d/1m5cTXE2Eiv_70_k4PXVUIKuuF_pWfhD9B9u84NWrF10/edit?gid=925059109#gid=925059109"> MS Excel Dashboard 
+- <a href="https://github.com/NTMASKOSTALIN/Pizza-Sales-Analysis-/blob/main/Pizza%20Sales%20Dashboard%20(MS%20Excel).xlsx"> MS Excel Dashboard 
 
 Questions(KPI):
 1. Retrieve the total number of orders placed.
