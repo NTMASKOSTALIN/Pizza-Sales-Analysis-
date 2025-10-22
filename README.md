@@ -1,14 +1,14 @@
-Objectives:
-The objective of this project is to perform an end-to-end analysis of pizza sales data (21k rows across 4 relational tables) to ensure data accuracy, integrity, and consistency through SQL-based cleaning and validation, and to derive key performance indicators (KPIs) that provide actionable business insights. The analysis aims to answer critical questions such as total revenue, order patterns, product mix performance, and time-based sales trends, while also identifying high-performing and underperforming pizzas. The ultimate goal is to transform raw sales data into a decision-support tool that helps optimize promotions, staffing schedules, and inventory planning.
+**Objectives:**
+The objective of this project is to perform an end-to-end analysis of pizza sales data (21k rows across 4 relational tables) to ensure data accuracy, integrity, and consistency through SQL-based cleaning and to derive key performance indicators (KPIs) that provide actionable business insights. The analysis aims to answer critical questions such as total revenue, order patterns, product mix performance, and time-based sales trends, while also identifying high-performing and underperforming pizzas. The ultimate goal is to transform raw sales data into a decision-support tool that helps optimize promotions, staffing schedules, and inventory planning.
 
-Dataset:
+**Dataset:**
 - <a href="https://github.com/NTMASKOSTALIN/Pizza-Sales-Analysis/blob/main/pizzas.csv"> Pizzas
 - <a href="https://github.com/NTMASKOSTALIN/Pizza-Sales-Analysis/blob/main/pizza_types.csv"> Pizza_Types
 - <a href="https://github.com/NTMASKOSTALIN/Pizza-Sales-Analysis/blob/main/orders.csv"> Orders
 - <a href="https://github.com/NTMASKOSTALIN/Pizza-Sales-Analysis/blob/main/order_details.csv"> Orderdetails
 - <a href="https://github.com/NTMASKOSTALIN/Pizza-Sales-Analysis-/blob/main/Pizza%20Sales%20Dashboard%20(MS%20Excel).xlsx"> MS Excel Dashboard 
 
-Questions(KPI):
+**Questions(KPI):**
 1. Retrieve the total number of orders placed.
 2. Calculate the total revenue generated from pizza sales.
 3. Identify the highest-priced pizza.
@@ -24,17 +24,14 @@ Questions(KPI):
 13. Determine the top 3 most ordered pizza types based on revenue for each pizza category.
 
 Process:
-1. Data Exploration & Cleaning (SQL):
+**1. Data Exploration & Cleaning (SQL):**
 Checked for null values, duplicates, and negative prices.
-Verified cross-table consistency between orders, order details, and pizzas.
-Validated order details ↔ orders ↔ pizza records.
-Found 5 pizzas never ordered → added an active/inactive flag.
 Standardized date/time and price formats.
 Ensured referential integrity and relationships across 4 tables.
-2. Data Analysis (SQL):
+**2. Data Analysis (SQL):**
 Wrote queries to answer 13 business questions/KPIs.
 Aggregated data for revenue, order counts, product mix, and time-based trends.
-3. Visualization (MS Excel Dashboard):
+**3. Visualization (MS Excel Dashboard):**
 Designed a dashboard showing Total Revenue, Total Pizzas Sold, Total Pizzas Orders, Average Orders, Year, Pizzas Size Orders by %, Pizza Sales by Category, Total Orders by Weekdays,
 Pizza Sales Category by %, Top 5 most Ordered Pizzas, Total Orders Trend by Monthly, Top 5 best Selling Pizzas.
 
