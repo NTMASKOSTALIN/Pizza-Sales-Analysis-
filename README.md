@@ -34,9 +34,9 @@ Ensured referential integrity and relationships across 4 tables.
 2. Data Analysis (SQL):
 Wrote queries to answer 13 business questions/KPIs.
 Aggregated data for revenue, order counts, product mix, and time-based trends.
-3. Visualization (Google Sheets Dashboard):
-Designed a dashboard showing Revenue, Orders, Pizza Type Mix, Hourly Sales Distribution, Top 5 Pizza Types, Monthly Heatmap, and Annual Revenue Growth.
-Added business insights directly below charts for storytelling.'
+3. Visualization (MS Excel Dashboard):
+Designed a dashboard showing Total Revenue, Total Pizzas Sold, Total Pizzas Orders, Average Orders, Year, Pizzas Size Orders by %, Pizza Sales by Category, Total Orders by Weekdays,
+Pizza Sales Category by %, Top 5 most Ordered Pizzas, Total Orders Trend by Monthly, Top 5 best Selling Pizzas.
 
 Dashboard:
 <img width="1917" height="867" alt="Pizza Sales Dashboard" src="https://github.com/user-attachments/assets/75074910-a12e-4979-b794-55a23429fab8" />
