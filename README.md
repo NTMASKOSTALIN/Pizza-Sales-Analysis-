@@ -6,7 +6,7 @@ Dataset:
 - <a href="https://github.com/NTMASKOSTALIN/Pizza-Sales-Analysis/blob/main/pizza_types.csv"> Pizza_Types
 - <a href="https://github.com/NTMASKOSTALIN/Pizza-Sales-Analysis/blob/main/orders.csv"> Orders
 - <a href="https://github.com/NTMASKOSTALIN/Pizza-Sales-Analysis/blob/main/order_details.csv"> Orderdetails
-- <a href="https://docs.google.com/spreadsheets/d/1m5cTXE2Eiv_70_k4PXVUIKuuF_pWfhD9B9u84NWrF10/edit?gid=925059109#gid=925059109"> Google Sheets Dashboard
+- <a href="https://docs.google.com/spreadsheets/d/1m5cTXE2Eiv_70_k4PXVUIKuuF_pWfhD9B9u84NWrF10/edit?gid=925059109#gid=925059109"> Google Sheets Dashboard 
 
 Questions(KPI):
 1. Retrieve the total number of orders placed.
@@ -39,7 +39,8 @@ Designed a dashboard showing Total Revenue, Total Pizzas Sold, Total Pizzas Orde
 Pizza Sales Category by %, Top 5 most Ordered Pizzas, Total Orders Trend by Monthly, Top 5 best Selling Pizzas.
 
 Dashboard:
-<img width="1917" height="867" alt="Pizza Sales Dashboard" src="https://github.com/user-attachments/assets/75074910-a12e-4979-b794-55a23429fab8" />
+<img width="1917" height="867" alt="Pizza Sales Dashboard" src="https://github.com/NTMASKOSTALIN/Pizza-Sales-Analysis-/blob/main/Pizza%20Sales%20Dashboard.png" />
+
 
 Insights:
 Strong Sales Volume: A total of 21,350 orders generated $817,860 in revenue, with an average of 138 pizzas sold per day demonstrates data sufficiency for meaningful trend analysis.
